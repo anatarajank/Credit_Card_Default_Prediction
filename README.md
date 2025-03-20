@@ -36,7 +36,7 @@ You can install these libraries using pip: `pip install pandas numpy seaborn mat
 
 ## Results
 
-The Decision Tree Classifier model achieved an accuracy of [insert accuracy score] on the test dataset.
+The Decision Tree Classifier model achieved an accuracy of **93.76%** on the test dataset.
 
 ## Contributing
 
